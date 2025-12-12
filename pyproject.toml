@@ -1,5 +1,5 @@
 [project]
-name = "gcp-re-excute-workflow"
+name = "gcp-re-execute-workflow"
 version = "0.1.0"
 description = "PoC by kktae@mz.co.kr"
 readme = "README.md"

@@ -99,7 +99,7 @@ wheels = [
 ]
 
 [[package]]
-name = "gcp-re-excute-workflow"
+name = "gcp-re-execute-workflow"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
